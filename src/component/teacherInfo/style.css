@@ -1,0 +1,22 @@
+
+.card {
+  height: fit-content;
+}
+ul li a {
+  color: rgb(105 122 141);
+  text-decoration: none;
+}
+
+.p-tabview .p-tabview-nav li.p-highlight .p-tabview-nav-link {
+  background: #00b7ff;
+  border-color: #00b7ff;
+  border: 1px solid #00b7ff;
+  color: white;
+}
+.p-datatable .p-sortable-column.p-highlight {
+  background-color: #d8ebff;
+}
+
+.ql-editor {
+  text-align: right !important;
+}

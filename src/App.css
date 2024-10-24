@@ -1,0 +1,55 @@
+body{
+    background-color: #f6f6f9 !important;
+    
+}
+
+.carousel-item{
+    height: 50vh;
+}
+.carousel-item img {
+    width: 100%;
+    height: 100%;
+}
+.menu-item a{
+    text-decoration: none !important;
+    color: #697a8d !important;
+    cursor: pointer;
+}
+.layout-menu a:hover{
+    color: blue;
+}
+.main-container {
+    min-height: 100vh;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+
+}
+#content{
+    width: 50%;
+    flex-grow: 8;
+    margin-top: 10px;
+    margin-bottom: 0;
+    margin-right: 255px;
+    -webkit-transition: 0.3s ease all;
+    transition: 0.3s ease all;
+}
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    width: 100%;
+    padding-left: calc(var(--bs-gutter-x)* .5);
+    padding-right: calc(var(--bs-gutter-x)* .5);
+    margin-left: auto;
+    margin-right: auto;
+
+}

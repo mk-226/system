@@ -1,0 +1,2564 @@
+{
+  "teacher": [
+    {
+      "name": "هدى سمير عبد الله",
+      "nationalId": "29106151234567",
+      "address": "القاهرة",
+      "gYear": "2016",
+      "qualification": "بكالوريوس تربية",
+      "number": "01123456789",
+      "job": "معلم",
+      "University": "جامعة بني سويف",
+      "birthday": "1991-06-15T21:00:00.000Z",
+      "section": "النحو والصرف",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "subject": "اللغة العربية",
+      "id": "x1y2"
+    },
+    {
+      "id": "z3a4",
+      "name": "محمد خالد محمد رمضان",
+      "nationalId": "28808201234567",
+      "address": "الإسكندرية",
+      "gYear": "2013",
+      "qualification": "بكالوريوس هندسة",
+      "number": "01087654321",
+      "job": "IT",
+      "University": "جامعة الإسكندرية",
+      "jobInfo": "مهندس برمجيات",
+      "birthday": "1988-08-20T21:00:00.000Z",
+      "subject": "هندسة البرمجيات",
+      "section": "تطوير التطبيقات",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "username": "admin",
+      "password": "admin"
+    },
+    {
+      "id": "b5c6",
+      "name": "فاطمة علي محمد",
+      "nationalId": "29309101234567",
+      "address": "المنصورة",
+      "gYear": "2018",
+      "qualification": "ليسانس آداب",
+      "number": "01198765432",
+      "job": "معلم",
+      "University": "جامعة المنصورة",
+      "jobInfo": "معلمة تاريخ",
+      "birthday": "1993-09-10T21:00:00.000Z",
+      "subject": "التاريخ",
+      "section": "التاريخ الحديث",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "username": "29309101234567",
+      "password": "g3h6j9"
+    },
+    {
+      "name": "أحمد كمال السيد",
+      "nationalId": "29005051234567",
+      "address": "الجيزة",
+      "gYear": "2015",
+      "qualification": "بكالوريوس تجارة",
+      "number": "01112233445",
+      "job": "معلم",
+      "jobInfo": "مشرف إداري",
+      "birthday": "1990-05-05T21:00:00.000Z",
+      "section": "الموارد البشرية",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "subject": "إدارة الأعمال",
+      "username": "10",
+      "password": "10",
+      "id": "d7e8"
+    },
+    {
+      "name": "نورهان محمد أحمد",
+      "nationalId": "29412121234567",
+      "address": "طنطا",
+      "gYear": "2019",
+      "qualification": "بكالوريوس علوم",
+      "number": "01023456789",
+      "job": "IT",
+      "jobInfo": "محللة بيانات",
+      "birthday": "1994-12-12T22:00:00.000Z",
+      "section": "تحليل البيانات",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "subject": "علوم الحاسب",
+      "username": "29412121234567",
+      "password": "n7p4q1",
+      "id": "f9g0"
+    },
+    {
+      "name": "عمرو حسن محمود",
+      "nationalId": "28703031234567",
+      "address": "الإسماعيلية",
+      "gYear": "2012",
+      "qualification": "ليسانس حقوق",
+      "number": "01187654321",
+      "job": "امن",
+      "University": "جامعة المنيا",
+      "birthday": "1987-03-03T22:00:00.000Z",
+      "section": "الأمن والسلامة",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "subject": "القانون",
+      "id": "h1i2"
+    },
+    {
+      "id": "j3k4",
+      "name": "سارة أحمد محمود",
+      "nationalId": "29210101234567",
+      "address": "بورسعيد",
+      "gYear": "2017",
+      "qualification": "بكالوريوس تربية رياضية",
+      "number": "01098765432",
+      "job": "معلم",
+      "University": "جامعة بورسعيد",
+      "jobInfo": "معلمة تربية رياضية",
+      "birthday": "1992-10-10T21:00:00.000Z",
+      "subject": "التربية الرياضية",
+      "section": "الألعاب الجماعية",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "username": "29210101234567",
+      "password": "u3v6w9"
+    },
+    {
+      "name": "خالد محمد علي",
+      "nationalId": "28601011234567",
+      "address": "أسيوط",
+      "gYear": "2011",
+      "qualification": "بكالوريوس هندسة",
+      "number": "01123456789",
+      "job": "مسئول شئون عاملين",
+      "birthday": "1986-01-01T22:00:00.000Z",
+      "section": "شبكات الحاسوب",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "subject": "هندسة الاتصالات",
+      "id": "l5m6"
+    },
+    {
+      "id": "n7o8",
+      "name": "رانيا محمود السيد",
+      "nationalId": "29511111234567",
+      "address": "سوهاج",
+      "gYear": "2020",
+      "qualification": "بكالوريوس خدمة اجتماعية",
+      "number": "01087654321",
+      "job": "مشرف",
+      "University": "جامعة سوهاج",
+      "jobInfo": "مشرفة اجتماعية",
+      "birthday": "1995-11-11T22:00:00.000Z",
+      "subject": "الخدمة الاجتماعية",
+      "section": "رعاية الشباب",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "username": "29511111234567",
+      "password": "a4b7c2"
+    },
+    {
+      "id": "p9q0",
+      "name": "محمد عبد الرحمن حسين",
+      "nationalId": "28904041234567",
+      "address": "الفيوم",
+      "gYear": "2014",
+      "qualification": "بكالوريوس أمن معلومات",
+      "number": "01198765432",
+      "job": "معلم",
+      "University": "جامعة الفيوم",
+      "jobInfo": "مسؤول أمن معلومات",
+      "birthday": "1989-04-04T21:00:00.000Z",
+      "subject": "أمن المعلومات",
+      "section": "الأمن السيبراني",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "username": "28904041234567",
+      "password": "d9e2f5"
+    },
+    {
+      "name": "أحمد محمود السيد",
+      "nationalId": "28905201234567",
+      "address": "الإسكندرية",
+      "gYear": "2014",
+      "qualification": "بكالوريوس علوم",
+      "number": "01087654321",
+      "job": "معلم",
+      "University": "جامعة الإسكندرية",
+      "birthday": "1989-05-20T21:00:00.000Z",
+      "section": "الفيزياء",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "subject": "العلوم",
+      "id": "a1b2",
+      "username": "28905201234567",
+      "password": "7Xt9pL3"
+    },
+    {
+      "name": "نورا علي حسن",
+      "nationalId": "29210151234567",
+      "address": "المنصورة",
+      "gYear": "2017",
+      "qualification": "ليسانس آداب",
+      "number": "01198765432",
+      "job": "معلم",
+      "University": "جامعة المنصورة",
+      "birthday": "1992-10-15T21:00:00.000Z",
+      "section": "الأدب الإنجليزي",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "subject": "اللغة الإنجليزية",
+      "id": "c3d4",
+      "username": "29210151234567",
+      "password": "9Ky2mN8"
+    },
+    {
+      "name": "محمد عبد الرحمن أحمد",
+      "nationalId": "28807101234567",
+      "address": "طنطا",
+      "gYear": "2013",
+      "qualification": "بكالوريوس تربية رياضية",
+      "number": "01112233445",
+      "job": "معلم",
+      "University": "جامعة طنطا",
+      "birthday": "1988-07-10T21:00:00.000Z",
+      "section": "التربية البدنية",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "subject": "التربية الرياضية",
+      "id": "e5f6",
+      "username": "28807101234567",
+      "password": "5Qz7wP1"
+    },
+    {
+      "name": "سارة مصطفى كمال",
+      "nationalId": "29403051234567",
+      "address": "أسيوط",
+      "gYear": "2019",
+      "qualification": "بكالوريوس تربية",
+      "number": "01023456789",
+      "job": "معلم",
+      "University": "جامعة أسيوط",
+      "birthday": "1994-03-05T22:00:00.000Z",
+      "section": "رياض الأطفال",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "subject": "تعليم مبكر",
+      "id": "g7h8",
+      "username": "29403051234567",
+      "password": "3Jm6bC9"
+    },
+    {
+      "name": "كريم سعيد محمود",
+      "nationalId": "28702251234567",
+      "address": "الزقازيق",
+      "gYear": "2012",
+      "qualification": "بكالوريوس علوم",
+      "number": "01187654321",
+      "job": "معلم",
+      "University": "جامعة الزقازيق",
+      "birthday": "1987-02-25T22:00:00.000Z",
+      "section": "الكيمياء",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "subject": "الكيمياء",
+      "id": "i9j0",
+      "username": "28702251234567",
+      "password": "8Lf4hR2"
+    },
+    {
+      "name": "رانيا خالد عبد العزيز",
+      "nationalId": "29308301234567",
+      "address": "بني سويف",
+      "gYear": "2018",
+      "qualification": "ليسانس آداب",
+      "number": "01098765432",
+      "job": "معلم",
+      "University": "جامعة بني سويف",
+      "birthday": "1993-08-30T21:00:00.000Z",
+      "section": "التاريخ",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "subject": "الدراسات الاجتماعية",
+      "id": "k1l2",
+      "username": "29308301234567",
+      "password": "6Yd9sM4"
+    },
+    {
+      "name": "عمر فتحي السيد",
+      "nationalId": "28601201234567",
+      "address": "دمنهور",
+      "gYear": "2011",
+      "qualification": "بكالوريوس تربية",
+      "number": "01123456789",
+      "job": "معلم",
+      "University": "جامعة دمنهور",
+      "birthday": "1986-01-20T22:00:00.000Z",
+      "section": "الرياضيات",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "subject": "الرياضيات",
+      "id": "m3n4",
+      "username": "28601201234567",
+      "password": "2Xc7vB5"
+    },
+    {
+      "name": "منى حسام الدين محمد",
+      "nationalId": "29509121234567",
+      "address": "سوهاج",
+      "gYear": "2020",
+      "qualification": "بكالوريوس تربية فنية",
+      "number": "01087654321",
+      "job": "معلم",
+      "University": "جامعة سوهاج",
+      "birthday": "1995-09-12T21:00:00.000Z",
+      "section": "الفنون التشكيلية",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "subject": "التربية الفنية",
+      "id": "o5p6",
+      "username": "29509121234567",
+      "password": "1Nj8kL6"
+    },
+    {
+      "name": "حسام محمد أحمد",
+      "nationalId": "28804081234567",
+      "address": "المنيا",
+      "gYear": "2013",
+      "qualification": "بكالوريوس تربية موسيقية",
+      "number": "01198765432",
+      "job": "معلم",
+      "University": "جامعة المنيا",
+      "birthday": "1988-04-08T21:00:00.000Z",
+      "section": "الموسيقى",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "subject": "التربية الموسيقية",
+      "id": "q7r8",
+      "username": "28804081234567",
+      "password": "4Gh5tF9"
+    },
+    {
+      "name": "دينا عادل محمود",
+      "nationalId": "29107221234567",
+      "address": "كفر الشيخ",
+      "gYear": "2016",
+      "qualification": "بكالوريوس تربية خاصة",
+      "number": "01112233445",
+      "job": "معلم",
+      "University": "جامعة كفر الشيخ",
+      "birthday": "1991-07-22T21:00:00.000Z",
+      "section": "صعوبات التعلم",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "subject": "التربية الخاصة",
+      "id": "s9t0",
+      "username": "29107221234567",
+      "password": "7Zx2cV8"
+    },
+    {
+      "name": "طارق سمير عبد الفتاح",
+      "nationalId": "28703181234567",
+      "address": "بورسعيد",
+      "gYear": "2012",
+      "qualification": "بكالوريوس تربية",
+      "number": "01023456789",
+      "job": "معلم",
+      "University": "جامعة بورسعيد",
+      "birthday": "1987-03-18T22:00:00.000Z",
+      "section": "اللغة العربية",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "subject": "اللغة العربية",
+      "id": "u1v2",
+      "username": "28703181234567",
+      "password": "9Wb3mH7"
+    },
+    {
+      "name": "هبة أحمد محمد",
+      "nationalId": "29402101234567",
+      "address": "الغردقة",
+      "gYear": "2019",
+      "qualification": "بكالوريوس علوم",
+      "number": "01187654321",
+      "job": "معلم",
+      "University": "جامعة جنوب الوادي",
+      "birthday": "1994-02-10T22:00:00.000Z",
+      "section": "الأحياء",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "subject": "العلوم",
+      "id": "w3x4",
+      "username": "29402101234567",
+      "password": "5Tj6yR1"
+    },
+    {
+      "name": "أيمن صلاح الدين عبد الحميد",
+      "nationalId": "28509051234567",
+      "address": "شبين الكوم",
+      "gYear": "2010",
+      "qualification": "بكالوريوس تربية",
+      "number": "01098765432",
+      "job": "معلم",
+      "University": "جامعة المنوفية",
+      "birthday": "1985-09-05T21:00:00.000Z",
+      "section": "الجغرافيا",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "subject": "الدراسات الاجتماعية",
+      "id": "y5z6",
+      "username": "28509051234567",
+      "password": "2Kp9fD4"
+    },
+    {
+      "id": "a1b2",
+      "name": "محمد عبد الرحمن",
+      "nationalId": "27003061234567",
+      "address": "الاسكندرية",
+      "gYear": "2012",
+      "qualification": "بكالوريوس هندسة",
+      "number": "01233456789",
+      "job": "معلم",
+      "University": "جامعة الإسكندرية",
+      "jobInfo": "مدير مشروع",
+      "birthday": "1985-03-15T10:00:00.000Z",
+      "subject": "هندسة ميكانيكية",
+      "section": "التصميم",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "username": "27003061234567",
+      "password": "p3o9i8"
+    },
+    {
+      "id": "c3d4",
+      "name": "أميرة محمد عبد الله",
+      "nationalId": "24005051234567",
+      "address": "المنصورة",
+      "gYear": "2018",
+      "qualification": "بكالوريوس قانون",
+      "number": "01567890123",
+      "job": "معلم",
+      "University": "جامعة المنصورة",
+      "jobInfo": "محامية شرعية",
+      "birthday": "1992-08-20T12:00:00.000Z",
+      "subject": "قانون جنائي",
+      "section": "النظام الجنائي",
+      "nationality": "مصري",
+      "Gender": "أنثى",
+      "username": "24005051234567",
+      "password": "l4k3m9"
+    },
+    {
+      "id": "e5f6",
+      "name": "عبد الرحمن محمود عبد الرحمن",
+      "nationalId": "21007061234567",
+      "address": "الفيوم",
+      "gYear": "2010",
+      "qualification": "بكالوريوس طب",
+      "number": "01678901234",
+      "job": "معلم",
+      "University": "جامعة الفيوم",
+      "jobInfo": "طبيب اختصاصي",
+      "birthday": "1980-11-10T14:00:00.000Z",
+      "subject": "طب باطني",
+      "section": "المرضيات",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "username": "21007061234567",
+      "password": "o7i9u8"
+    },
+    {
+      "id": "g7h8",
+      "name": "سارة محمد عبد الفتاح",
+      "nationalId": "20004051234567",
+      "address": "الشرقية",
+      "gYear": "2016",
+      "qualification": "بكالوريوس اقتصاد",
+      "number": "01789012345",
+      "job": "معلم",
+      "University": "جامعة الزقازيق",
+      "jobInfo": "مديرة اقتصادية",
+      "birthday": "1990-02-25T16:00:00.000Z",
+      "subject": "اقتصاد دولي",
+      "section": "الاقتصاد الدولي",
+      "nationality": "مصري",
+      "Gender": "أنثى",
+      "username": "20004051234567",
+      "password": "n3m4k5"
+    },
+    {
+      "id": "4fe5",
+      "name": "dsdsd",
+      "nationalId": "45435",
+      "address": "435435",
+      "gYear": "35443",
+      "qualification": "بكالوريوس هندسة",
+      "number": "45435435",
+      "job": "It",
+      "University": "جامعة القاهرة",
+      "jobInfo": "43534",
+      "birthday": "18-10-2024",
+      "subject": "اللغة العربية",
+      "section": "اللغة العربية",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "username": "45435",
+      "password": "89Okiv"
+    },
+    {
+      "id": "d7d6",
+      "name": "خالد محمد رمضان",
+      "nationalId": "242424242424242",
+      "address": "الجيزة",
+      "gYear": "2011",
+      "qualification": "بكالوريوس هندسة",
+      "number": "24242",
+      "job": "معلم",
+      "University": "جامعة القاهرة",
+      "jobInfo": "2",
+      "birthday": "18-10-2024",
+      "subject": "اللغة العربية",
+      "section": "اللغة العربية",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "username": "242424242424242",
+      "password": "534DGw"
+    }
+  ],
+  "absentEmploy": [
+    {
+      "id": "401d",
+      "emp": {
+        "name": "فاطمة علي محمد",
+        "id": "b5c6"
+      },
+      "absentDay": "2024-10-11T21:00:00.000Z"
+    },
+    {
+      "id": "6700",
+      "emp": {
+        "name": "فاطمة علي محمد",
+        "id": "b5c6"
+      },
+      "absentDay": "2024-10-17T21:00:00.000Z"
+    },
+    {
+      "id": "2144",
+      "emp": {
+        "name": "فاطمة علي محمد",
+        "id": "b5c6"
+      },
+      "absentDay": "2024-10-06T21:00:00.000Z"
+    },
+    {
+      "id": "fb1c",
+      "emp": {
+        "name": "فاطمة علي محمد",
+        "id": "b5c6"
+      },
+      "absentDay": "2024-10-09T21:00:00.000Z"
+    },
+    {
+      "id": "d32f",
+      "emp": {
+        "name": "أحمد كمال السيد",
+        "id": "d7e8"
+      },
+      "absentDay": "2024-10-11T21:00:00.000Z"
+    },
+    {
+      "id": "c92a",
+      "emp": {
+        "name": "أحمد كمال السيد",
+        "id": "d7e8"
+      },
+      "absentDay": "2024-10-02T21:00:00.000Z"
+    },
+    {
+      "id": "66f8",
+      "emp": {
+        "name": "هدى سمير عبد الله",
+        "id": "x1y2"
+      },
+      "absentDay": "2024-10-13T21:00:00.000Z"
+    },
+    {
+      "id": "eca3",
+      "emp": {
+        "name": "هدى سمير عبد الله",
+        "id": "x1y2"
+      },
+      "absentDay": "2024-10-13T21:00:00.000Z"
+    },
+    {
+      "id": "5670",
+      "emp": {
+        "name": "محمد خالد محمد رمضان",
+        "id": "z3a4"
+      },
+      "absentDay": "2024-10-13T21:00:00.000Z"
+    },
+    {
+      "id": "f469",
+      "emp": {
+        "name": "محمد خالد محمد رمضان",
+        "id": "z3a4"
+      },
+      "absentDay": "2024-10-17T21:00:00.000Z"
+    },
+    {
+      "id": "433f",
+      "emp": {
+        "name": "فاطمة علي محمد",
+        "id": "b5c6"
+      },
+      "absentDay": "2024-10-17T21:00:00.000Z"
+    },
+    {
+      "id": "4368",
+      "emp": {
+        "name": "أحمد كمال السيد",
+        "id": "d7e8"
+      },
+      "absentDay": "2024-10-17T21:00:00.000Z"
+    },
+    {
+      "id": "0c77",
+      "emp": {
+        "name": "محمد خالد محمد رمضان",
+        "id": "z3a4"
+      },
+      "absentDay": "2024-10-18T21:00:00.000Z"
+    },
+    {
+      "id": "b178",
+      "emp": {
+        "name": "فاطمة علي محمد",
+        "id": "b5c6"
+      },
+      "absentDay": "2024-10-18T21:00:00.000Z"
+    },
+    {
+      "id": "f557",
+      "emp": {
+        "name": "أحمد كمال السيد",
+        "id": "d7e8"
+      },
+      "absentDay": "2024-10-18T21:00:00.000Z"
+    }
+  ],
+  "messages": [
+    {
+      "emp": {
+        "name": "خالد محمد علي",
+        "id": "l5m6"
+      },
+      "massage": "<h1>تكليف بعمل المذكرات</h1>",
+      "res": "علم وجاري التنفيذ",
+      "id": "dd9a"
+    },
+    {
+      "emp": {
+        "name": "فاطمة علي محمد",
+        "id": "b5c6"
+      },
+      "massage": "<p>السلام عليكم ورحمة الله</p>",
+      "res": "وعليكم السلام",
+      "id": "be6b"
+    },
+    {
+      "emp": {
+        "name": "أحمد كمال السيد",
+        "id": "d7e8"
+      },
+      "massage": "<p>تكليف بعمل المذكرة</p>",
+      "res": "علم وجاري التنفيذ",
+      "id": "6cb4"
+    },
+    {
+      "emp": {
+        "name": "أحمد كمال السيد",
+        "id": "d7e8"
+      },
+      "massage": "<p>مرحبا</p>",
+      "res": "اهلا",
+      "id": "4fb8"
+    }
+  ],
+  "Attendance": [
+    {
+      "id": "b41d",
+      "emp": {
+        "name": "رانيا محمود السيد",
+        "id": "n7o8"
+      },
+      "day": "7-10-2024",
+      "hour": "16:39",
+      "lateMinutes": 132
+    },
+    {
+      "id": "11cb",
+      "emp": {
+        "name": "رانيا محمود السيد",
+        "id": "n7o8"
+      },
+      "day": "6-10-2024",
+      "hour": "16:42",
+      "lateMinutes": 142
+    },
+    {
+      "id": "16eb",
+      "emp": {
+        "name": "فاطمة علي محمد",
+        "id": "b5c6"
+      },
+      "day": "6-10-2024",
+      "hour": "19:32",
+      "lateMinutes": 732
+    },
+    {
+      "id": "e415",
+      "emp": {
+        "name": "أحمد كمال السيد",
+        "id": "d7e8"
+      },
+      "day": "0-10-2024",
+      "hour": "23:57",
+      "lateMinutes": 997
+    },
+    {
+      "id": "b1f7",
+      "emp": {
+        "name": "أحمد كمال السيد",
+        "id": "d7e8"
+      },
+      "day": "1-10-2024",
+      "hour": "12:28",
+      "lateMinutes": 308
+    },
+    {
+      "id": "fa6d",
+      "emp": {
+        "name": "محمد عبد الرحمن حسين",
+        "id": "p9q0"
+      },
+      "day": "2-10-2024",
+      "hour": "21:53",
+      "lateMinutes": 873
+    },
+    {
+      "id": "6d89",
+      "emp": {
+        "name": "أحمد كمال السيد",
+        "id": "d7e8"
+      },
+      "day": "2-10-2024",
+      "hour": "22:59",
+      "lateMinutes": 939
+    },
+    {
+      "id": "546f",
+      "emp": {
+        "name": "سارة أحمد محمود",
+        "id": "j3k4"
+      },
+      "day": "3-10-2024",
+      "hour": "9:10",
+      "lateMinutes": 110
+    },
+    {
+      "id": "e364",
+      "emp": {
+        "name": "محمد عبد الرحمن حسين",
+        "id": "p9q0"
+      },
+      "day": "3-10-2024",
+      "hour": "20:11",
+      "lateMinutes": 771
+    },
+    {
+      "id": "1ba9",
+      "emp": {
+        "name": "محمد عبد الرحمن حسين",
+        "id": "p9q0"
+      },
+      "day": "4-10-2024",
+      "hour": "20:6",
+      "lateMinutes": 766
+    },
+    {
+      "id": "d3b8",
+      "emp": {
+        "name": "أحمد كمال السيد",
+        "id": "d7e8"
+      },
+      "day": "4-10-2024",
+      "hour": "20:8",
+      "lateMinutes": 768
+    },
+    {
+      "id": "3b04",
+      "emp": {
+        "name": "أحمد كمال السيد",
+        "id": "d7e8"
+      },
+      "day": "5-10-2024",
+      "hour": "0:29",
+      "lateMinutes": 0
+    },
+    {
+      "id": "2aa8",
+      "emp": {
+        "name": "سارة أحمد محمود",
+        "id": "j3k4"
+      },
+      "day": "0-10-2024",
+      "hour": "9:33",
+      "lateMinutes": 133
+    }
+  ],
+  "timeTables": [
+    {
+      "id": "3e98",
+      "selectedDay": "الاحد",
+      "selectedTeacher": "هدى سمير عبد الله",
+      "selectedPeriod": "الاولي",
+      "selectedSubject": "اللغة العربية",
+      "selectedClass": "الصف الاول الابتدائي",
+      "selectedSemester": "اول"
+    },
+    {
+      "id": "4f99",
+      "selectedDay": "الاثنين",
+      "selectedTeacher": "فاطمة علي محمد",
+      "selectedPeriod": "الثانية",
+      "selectedSubject": "الرياضيات",
+      "selectedClass": "الصف الثاني الابتدائي",
+      "selectedSemester": "ثاني"
+    },
+    {
+      "id": "5g00",
+      "selectedDay": "الثلاثاء",
+      "selectedTeacher": "أحمد كمال السيد",
+      "selectedPeriod": "الثالثة",
+      "selectedSubject": "العلوم",
+      "selectedClass": "الصف الثالث الابتدائي",
+      "selectedSemester": "اول"
+    },
+    {
+      "id": "6h01",
+      "selectedDay": "الاربعاء",
+      "selectedTeacher": "سارة أحمد محمود",
+      "selectedPeriod": "الرابعة",
+      "selectedSubject": "اللغة الانجليزية",
+      "selectedClass": "الصف الرابع الابتدائي",
+      "selectedSemester": "ثاني"
+    },
+    {
+      "id": "7i02",
+      "selectedDay": "الخميس",
+      "selectedTeacher": "محمد خالد محمد رمضان",
+      "selectedPeriod": "الخامسة",
+      "selectedSubject": "الدراسات الاجتماعية",
+      "selectedClass": "الصف الخامس الابتدائي",
+      "selectedSemester": "اول"
+    },
+    {
+      "id": "8j03",
+      "selectedDay": "الاحد",
+      "selectedTeacher": "رانيا محمود السيد",
+      "selectedPeriod": "السادسة",
+      "selectedSubject": "التربية الدينية",
+      "selectedClass": "الصف السادس الابتدائي",
+      "selectedSemester": "ثاني"
+    },
+    {
+      "id": "9k04",
+      "selectedDay": "الاثنين",
+      "selectedTeacher": "هدى سمير عبد الله",
+      "selectedPeriod": "الاولي",
+      "selectedSubject": "اللغة العربية",
+      "selectedClass": "الصف الثاني الابتدائي",
+      "selectedSemester": "اول"
+    },
+    {
+      "id": "10l05",
+      "selectedDay": "الثلاثاء",
+      "selectedTeacher": "فاطمة علي محمد",
+      "selectedPeriod": "الثانية",
+      "selectedSubject": "الرياضيات",
+      "selectedClass": "الصف الثالث الابتدائي",
+      "selectedSemester": "ثاني"
+    },
+    {
+      "id": "11m06",
+      "selectedDay": "الاربعاء",
+      "selectedTeacher": "أحمد كمال السيد",
+      "selectedPeriod": "الثالثة",
+      "selectedSubject": "العلوم",
+      "selectedClass": "الصف الرابع الابتدائي",
+      "selectedSemester": "اول"
+    },
+    {
+      "id": "12n07",
+      "selectedDay": "الخميس",
+      "selectedTeacher": "سارة أحمد محمود",
+      "selectedPeriod": "الرابعة",
+      "selectedSubject": "اللغة الانجليزية",
+      "selectedClass": "الصف الخامس الابتدائي",
+      "selectedSemester": "ثاني"
+    },
+    {
+      "id": "13o08",
+      "selectedDay": "الاحد",
+      "selectedTeacher": "محمد خالد محمد رمضان",
+      "selectedPeriod": "الخامسة",
+      "selectedSubject": "الدراسات الاجتماعية",
+      "selectedClass": "الصف السادس الابتدائي",
+      "selectedSemester": "اول"
+    },
+    {
+      "id": "14p09",
+      "selectedDay": "الاثنين",
+      "selectedTeacher": "رانيا محمود السيد",
+      "selectedPeriod": "السادسة",
+      "selectedSubject": "التربية الدينية",
+      "selectedClass": "الصف الاول الابتدائي",
+      "selectedSemester": "ثاني"
+    },
+    {
+      "id": "15q10",
+      "selectedDay": "الثلاثاء",
+      "selectedTeacher": "هدى سمير عبد الله",
+      "selectedPeriod": "الاولي",
+      "selectedSubject": "اللغة العربية",
+      "selectedClass": "الصف الثالث الابتدائي",
+      "selectedSemester": "اول"
+    },
+    {
+      "id": "16r11",
+      "selectedDay": "الاربعاء",
+      "selectedTeacher": "فاطمة علي محمد",
+      "selectedPeriod": "الثانية",
+      "selectedSubject": "الرياضيات",
+      "selectedClass": "الصف الرابع الابتدائي",
+      "selectedSemester": "ثاني"
+    },
+    {
+      "id": "17s12",
+      "selectedDay": "الخميس",
+      "selectedTeacher": "أحمد كمال السيد",
+      "selectedPeriod": "الثالثة",
+      "selectedSubject": "العلوم",
+      "selectedClass": "الصف الخامس الابتدائي",
+      "selectedSemester": "اول"
+    },
+    {
+      "id": "18t13",
+      "selectedDay": "الاحد",
+      "selectedTeacher": "سارة أحمد محمود",
+      "selectedPeriod": "الرابعة",
+      "selectedSubject": "اللغة الانجليزية",
+      "selectedClass": "الصف السادس الابتدائي",
+      "selectedSemester": "ثاني"
+    },
+    {
+      "id": "19u14",
+      "selectedDay": "الاثنين",
+      "selectedTeacher": "محمد خالد محمد رمضان",
+      "selectedPeriod": "الخامسة",
+      "selectedSubject": "الدراسات الاجتماعية",
+      "selectedClass": "الصف الاول الابتدائي",
+      "selectedSemester": "اول"
+    },
+    {
+      "id": "20v15",
+      "selectedDay": "الثلاثاء",
+      "selectedTeacher": "رانيا محمود السيد",
+      "selectedPeriod": "السادسة",
+      "selectedSubject": "التربية الدينية",
+      "selectedClass": "الصف الثاني الابتدائي",
+      "selectedSemester": "ثاني"
+    },
+    {
+      "id": "21w16",
+      "selectedDay": "الاربعاء",
+      "selectedTeacher": "هدى سمير عبد الله",
+      "selectedPeriod": "الاولي",
+      "selectedSubject": "اللغة العربية",
+      "selectedClass": "الصف الرابع الابتدائي",
+      "selectedSemester": "اول"
+    },
+    {
+      "id": "22x17",
+      "selectedDay": "الخميس",
+      "selectedTeacher": "فاطمة علي محمد",
+      "selectedPeriod": "الثانية",
+      "selectedSubject": "الرياضيات",
+      "selectedClass": "الصف الخامس الابتدائي",
+      "selectedSemester": "ثاني"
+    },
+    {
+      "id": "3e98",
+      "selectedDay": "الاحد",
+      "selectedTeacher": "هدى سمير عبد الله",
+      "selectedPeriod": "الاولي",
+      "selectedSubject": "اللغة العربية",
+      "selectedClass": "الصف الاول الابتدائي",
+      "selectedSemester": "اول"
+    },
+    {
+      "id": "6fdd",
+      "selectedDay": "الاحد",
+      "selectedTeacher": "أحمد كمال السيد",
+      "selectedPeriod": "الاولي",
+      "selectedSubject": "اللغة العربية",
+      "selectedClass": "الصف الاول الابتدائي",
+      "selectedSemester": "اول"
+    },
+    {
+      "id": "fc31",
+      "selectedDay": "الاحد",
+      "selectedTeacher": "هدى سمير عبد الله",
+      "selectedPeriod": "الثانية",
+      "selectedSubject": "اللغة الانجليزية",
+      "selectedClass": "الصف الاول الابتدائي",
+      "selectedSemester": "اول"
+    },
+    {
+      "id": "c9c3",
+      "selectedDay": "الاحد",
+      "selectedTeacher": "فاطمة علي محمد",
+      "selectedPeriod": "الثالثة",
+      "selectedSubject": "الرياضيات",
+      "selectedClass": "الصف الاول الابتدائي",
+      "selectedSemester": "اول"
+    },
+    {
+      "id": "ded3",
+      "selectedDay": "الاحد",
+      "selectedTeacher": "محمد عبد الرحمن حسين",
+      "selectedPeriod": "الاولي",
+      "selectedSubject": "اللغة الانجليزية",
+      "selectedClass": "الصف الاول الابتدائي",
+      "selectedSemester": "اول"
+    },
+    {
+      "id": "2820",
+      "selectedDay": "الاحد",
+      "selectedTeacher": "هدى سمير عبد الله",
+      "selectedPeriod": "الاولي",
+      "selectedSubject": "اللغة العربية",
+      "selectedClass": "الصف الاول الابتدائي",
+      "selectedSemester": "اول"
+    }
+  ],
+  "meassgestoadmin": [
+    {
+      "emp": {
+        "name": "أحمد كمال السيد",
+        "id": "d7e8"
+      },
+      "massage": "dgf",
+      "res": "jjjjj",
+      "id": "296d"
+    },
+    {
+      "emp": {
+        "name": "أحمد كمال السيد",
+        "id": "d7e8"
+      },
+      "massage": "jjjjjhjk",
+      "res": "111",
+      "id": "1859"
+    },
+    {
+      "emp": {
+        "name": "أحمد كمال السيد",
+        "id": "d7e8"
+      },
+      "massage": "تجربة الرسالة",
+      "res": "تم",
+      "id": "d364"
+    },
+    {
+      "emp": {
+        "name": "محمد عبد الرحمن حسين",
+        "id": "p9q0"
+      },
+      "massage": "dddddddddddd",
+      "res": "ddd",
+      "id": "e0dc"
+    },
+    {
+      "emp": {
+        "name": "أحمد كمال السيد",
+        "id": "d7e8"
+      },
+      "massage": "اهلا يكم",
+      "res": "اهلا",
+      "id": "fa28"
+    }
+  ],
+  "Student": [
+    {
+      "id": "4ds6",
+      "type": "student",
+      "name": "عمر محمد خالد",
+      "nationalId": "28601011234545",
+      "birthday": "5-10-2015",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "32656522321245",
+      "fatherPhone": "012154656232",
+      "fatherJob": "محامي",
+      "motherName": "اية حنفي محمود رمضان",
+      "motherPhone": "011232323232",
+      "motherNationalId": "2951323232323",
+      "address": "الفيوم",
+      "phone": "012125456421",
+      "username": "1",
+      "password": "1"
+    },
+    {
+      "id": "s006",
+      "type": "student",
+      "name": "عبد الرحمن هاني مصطفى",
+      "nationalId": "31001061234567",
+      "birthday": "6-10-2015",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "28501061234567",
+      "fatherPhone": "01067890123",
+      "fatherJob": "محامي",
+      "motherName": "دينا محمود عبد العزيز",
+      "motherPhone": "01167890124",
+      "motherNationalId": "28701061234567",
+      "address": "الإسماعيلية",
+      "phone": "01678901234",
+      "username": "159753",
+      "password": "oP3qR8"
+    },
+    {
+      "id": "s008",
+      "type": "student",
+      "name": "زياد أشرف عبد الفتاح",
+      "nationalId": "31201081234567",
+      "birthday": "8-12-2015",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "28701081234567",
+      "fatherPhone": "01089012345",
+      "fatherJob": "مدير مبيعات",
+      "motherName": "رشا عادل محمد",
+      "motherPhone": "01189012346",
+      "motherNationalId": "28901081234567",
+      "address": "المنيا",
+      "phone": "01890123456",
+      "username": "951753",
+      "password": "wX6yZ9"
+    },
+    {
+      "id": "s010",
+      "type": "student",
+      "name": "مصطفى حسام الدين فتحي",
+      "nationalId": "31401101234567",
+      "birthday": "10-2-2016",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "28901101234567",
+      "fatherPhone": "01001234568",
+      "fatherJob": "مهندس كهرباء",
+      "motherName": "نهى عماد حسني",
+      "motherPhone": "01101234569",
+      "motherNationalId": "29101101234567",
+      "address": "سوهاج",
+      "phone": "01012345678",
+      "username": "258369",
+      "password": "eF7gH2"
+    },
+    {
+      "id": "s012",
+      "type": "student",
+      "name": "يحيى عمر فاروق",
+      "nationalId": "31601121234567",
+      "birthday": "12-4-2016",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "29101121234567",
+      "fatherPhone": "01023456780",
+      "fatherJob": "مهندس برمجيات",
+      "motherName": "مروة أحمد محمود",
+      "motherPhone": "01123456781",
+      "motherNationalId": "29301121234567",
+      "address": "بني سويف",
+      "phone": "01234567890",
+      "username": "963852",
+      "password": "mN3pL8"
+    },
+    {
+      "id": "s014",
+      "type": "student",
+      "name": "علي حسن محمود",
+      "nationalId": "31801141234567",
+      "birthday": "14-6-2016",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "29301141234567",
+      "fatherPhone": "01045678902",
+      "fatherJob": "مدير موارد بشرية",
+      "motherName": "سلمى محمد عبد الرحمن",
+      "motherPhone": "01145678903",
+      "motherNationalId": "29501141234567",
+      "address": "كفر الشيخ",
+      "phone": "01456789012",
+      "username": "753159",
+      "password": "uV5wX8"
+    },
+    {
+      "id": "s015",
+      "type": "student",
+      "name": "منة الله أيمن عبد العزيز",
+      "nationalId": "31901151234567",
+      "birthday": "15-7-2016",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "fatherNationalId": "29401151234567",
+      "fatherPhone": "01056789013",
+      "fatherJob": "مدرس جامعي",
+      "motherName": "ياسمين طارق فؤاد",
+      "motherPhone": "01156789014",
+      "motherNationalId": "29601151234567",
+      "address": "الأقصر",
+      "phone": "01567890123",
+      "username": "852963",
+      "password": "yZ2aB7"
+    },
+    {
+      "id": "s016",
+      "type": "student",
+      "name": "آدم شريف محمد",
+      "nationalId": "32001161234567",
+      "birthday": "16-8-2016",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "29501161234567",
+      "fatherPhone": "01067890124",
+      "fatherJob": "مهندس ميكانيكي",
+      "motherName": "رانيا محمود سامي",
+      "motherPhone": "01167890125",
+      "motherNationalId": "29701161234567",
+      "address": "أسوان",
+      "phone": "01678901234",
+      "username": "369147",
+      "password": "cD6eF1"
+    },
+    {
+      "id": "s0101",
+      "type": "student",
+      "name": "فاطمة أحمد علي",
+      "nationalId": "30501011234567",
+      "birthday": "1-5-2015",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "fatherNationalId": "28001011234567",
+      "fatherPhone": "01001234567",
+      "fatherJob": "مهندس",
+      "motherName": "نورا محمد حسن",
+      "motherPhone": "01112345678",
+      "motherNationalId": "28201011234567",
+      "address": "القاهرة",
+      "phone": "01123456789",
+      "username": "987654",
+      "password": "xY2zW9"
+    },
+    {
+      "id": "s0102",
+      "type": "student",
+      "name": "يوسف محمود سعيد",
+      "nationalId": "30601021234567",
+      "birthday": "2-6-2015",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "28101021234567",
+      "fatherPhone": "01023456789",
+      "fatherJob": "طبيب",
+      "motherName": "سارة خالد أحمد",
+      "motherPhone": "01123456780",
+      "motherNationalId": "28301021234567",
+      "address": "الإسكندرية",
+      "phone": "01234567890",
+      "username": "246810",
+      "password": "qR5tU8"
+    },
+    {
+      "id": "s0103",
+      "type": "student",
+      "name": "ملك عبد الرحمن محمد",
+      "nationalId": "30701031234567",
+      "birthday": "3-7-2015",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "fatherNationalId": "28201031234567",
+      "fatherPhone": "01034567890",
+      "fatherJob": "محاسب",
+      "motherName": "هدى سمير عادل",
+      "motherPhone": "01134567891",
+      "motherNationalId": "28401031234567",
+      "address": "الجيزة",
+      "phone": "01345678901",
+      "username": "135791",
+      "password": "mN9pL6"
+    },
+    {
+      "id": "s0104",
+      "type": "student",
+      "name": "أحمد خالد محمود",
+      "nationalId": "30801041234567",
+      "birthday": "4-8-2015",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "28301041234567",
+      "fatherPhone": "01045678901",
+      "fatherJob": "مدرس",
+      "motherName": "رانيا عماد الدين فؤاد",
+      "motherPhone": "01145678902",
+      "motherNationalId": "28501041234567",
+      "address": "المنصورة",
+      "phone": "01456789012",
+      "username": "864209",
+      "password": "eF1gH4"
+    },
+    {
+      "id": "s0105",
+      "type": "student",
+      "name": "جنى محمد سليمان",
+      "nationalId": "30901051234567",
+      "birthday": "5-9-2015",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "fatherNationalId": "28401051234567",
+      "fatherPhone": "01056789012",
+      "fatherJob": "مهندس معماري",
+      "motherName": "سمر أحمد حسين",
+      "motherPhone": "01156789013",
+      "motherNationalId": "28601051234567",
+      "address": "طنطا",
+      "phone": "01567890123",
+      "username": "753951",
+      "password": "iJ7kL2"
+    },
+    {
+      "id": "s0106",
+      "type": "student",
+      "name": "عبد الرحمن هاني مصطفى",
+      "nationalId": "31001061234567",
+      "birthday": "6-10-2015",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "28501061234567",
+      "fatherPhone": "01067890123",
+      "fatherJob": "محامي",
+      "motherName": "دينا محمود عبد العزيز",
+      "motherPhone": "01167890124",
+      "motherNationalId": "28701061234567",
+      "address": "الإسماعيلية",
+      "phone": "01678901234",
+      "username": "159753",
+      "password": "oP3qR8"
+    },
+    {
+      "id": "s0007",
+      "type": "student",
+      "name": "لينا عمرو السيد",
+      "nationalId": "31101071234567",
+      "birthday": "7-11-2015",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "fatherNationalId": "28601071234567",
+      "fatherPhone": "01078901234",
+      "fatherJob": "صحفي",
+      "motherName": "منى كمال الدين عبد الحميد",
+      "motherPhone": "01178901235",
+      "motherNationalId": "28801071234567",
+      "address": "بورسعيد",
+      "phone": "01789012345",
+      "username": "369258",
+      "password": "sT5uV1"
+    },
+    {
+      "id": "s0008",
+      "type": "student",
+      "name": "زياد أشرف عبد الفتاح",
+      "nationalId": "31201081234567",
+      "birthday": "8-12-2015",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "28701081234567",
+      "fatherPhone": "01089012345",
+      "fatherJob": "مدير مبيعات",
+      "motherName": "رشا عادل محمد",
+      "motherPhone": "01189012346",
+      "motherNationalId": "28901081234567",
+      "address": "المنيا",
+      "phone": "01890123456",
+      "username": "951753",
+      "password": "wX6yZ9"
+    },
+    {
+      "id": "s0009",
+      "type": "student",
+      "name": "ياسمين وليد سامي",
+      "nationalId": "31301091234567",
+      "birthday": "9-1-2016",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "fatherNationalId": "28801091234567",
+      "fatherPhone": "01090123456",
+      "fatherJob": "طبيب أسنان",
+      "motherName": "إيمان طارق عبد الرحمن",
+      "motherPhone": "01190123457",
+      "motherNationalId": "29001091234567",
+      "address": "أسيوط",
+      "phone": "01901234567",
+      "username": "147258",
+      "password": "aB4cD9"
+    },
+    {
+      "id": "s0010",
+      "type": "student",
+      "name": "مصطفى حسام الدين فتحي",
+      "nationalId": "31401101234567",
+      "birthday": "10-2-2016",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "28901101234567",
+      "fatherPhone": "01001234568",
+      "fatherJob": "مهندس كهرباء",
+      "motherName": "نهى عماد حسني",
+      "motherPhone": "01101234569",
+      "motherNationalId": "29101101234567",
+      "address": "سوهاج",
+      "phone": "01012345678",
+      "username": "258369",
+      "password": "eF7gH2"
+    },
+    {
+      "id": "s0101",
+      "type": "student",
+      "name": "رقية عبد الله محمد",
+      "nationalId": "31501111234567",
+      "birthday": "11-3-2016",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "fatherNationalId": "29001111234567",
+      "fatherPhone": "01012345679",
+      "fatherJob": "محاسب",
+      "motherName": "شيماء حسن علي",
+      "motherPhone": "01112345680",
+      "motherNationalId": "29201111234567",
+      "address": "الفيوم",
+      "phone": "01123456789",
+      "username": "741852",
+      "password": "iJ1kL6"
+    },
+    {
+      "id": "s0102",
+      "type": "student",
+      "name": "يحيى عمر فاروق",
+      "nationalId": "31601121234567",
+      "birthday": "12-4-2016",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "29101121234567",
+      "fatherPhone": "01023456780",
+      "fatherJob": "مهندس برمجيات",
+      "motherName": "مروة أحمد محمود",
+      "motherPhone": "01123456781",
+      "motherNationalId": "29301121234567",
+      "address": "بني سويف",
+      "phone": "01234567890",
+      "username": "963852",
+      "password": "mN3pL8"
+    },
+    {
+      "id": "s0103",
+      "type": "student",
+      "name": "سارة محمد إبراهيم",
+      "nationalId": "31701131234567",
+      "birthday": "13-5-2016",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "fatherNationalId": "29201131234567",
+      "fatherPhone": "01034567891",
+      "fatherJob": "طبيب",
+      "motherName": "نورا أحمد حسن",
+      "motherPhone": "01134567892",
+      "motherNationalId": "29401131234567",
+      "address": "القاهرة",
+      "phone": "01345678901",
+      "username": "852147",
+      "password": "qR4sT9"
+    },
+    {
+      "id": "s0104",
+      "type": "student",
+      "name": "كريم أحمد عبد العزيز",
+      "nationalId": "31801141234567",
+      "birthday": "14-6-2016",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "29301141234567",
+      "fatherPhone": "01045678902",
+      "fatherJob": "مهندس",
+      "motherName": "رانيا محمود سامي",
+      "motherPhone": "01145678903",
+      "motherNationalId": "29501141234567",
+      "address": "الإسكندرية",
+      "phone": "01456789012",
+      "username": "369147",
+      "password": "uV7wX2"
+    },
+    {
+      "id": "s0105",
+      "type": "student",
+      "name": "ملك عمرو السيد",
+      "nationalId": "31901151234567",
+      "birthday": "15-7-2016",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "fatherNationalId": "29401151234567",
+      "fatherPhone": "01056789013",
+      "fatherJob": "محاسب",
+      "motherName": "سمر خالد أحمد",
+      "motherPhone": "01156789014",
+      "motherNationalId": "29601151234567",
+      "address": "الجيزة",
+      "phone": "01567890123",
+      "username": "753951",
+      "password": "yZ5aB8"
+    },
+    {
+      "id": "s0106",
+      "type": "student",
+      "name": "يوسف هاني مصطفى",
+      "nationalId": "32001161234567",
+      "birthday": "16-8-2016",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "29501161234567",
+      "fatherPhone": "01067890124",
+      "fatherJob": "مدرس",
+      "motherName": "دينا عماد الدين فؤاد",
+      "motherPhone": "01167890125",
+      "motherNationalId": "29701161234567",
+      "address": "المنصورة",
+      "phone": "01678901234",
+      "username": "159357",
+      "password": "cD8eF3"
+    },
+    {
+      "id": "s0107",
+      "type": "student",
+      "name": "فريدة وليد سامي",
+      "nationalId": "32101171234567",
+      "birthday": "17-9-2016",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "fatherNationalId": "29601171234567",
+      "fatherPhone": "01078901235",
+      "fatherJob": "صحفي",
+      "motherName": "هبة طارق عبد الرحمن",
+      "motherPhone": "01178901236",
+      "motherNationalId": "29801171234567",
+      "address": "طنطا",
+      "phone": "01789012345",
+      "username": "951753",
+      "password": "gH1iJ6"
+    },
+    {
+      "id": "s0108",
+      "type": "student",
+      "name": "آدم أشرف عبد الفتاح",
+      "nationalId": "32201181234567",
+      "birthday": "18-10-2016",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "29701181234567",
+      "fatherPhone": "01089012346",
+      "fatherJob": "مهندس معماري",
+      "motherName": "رشا محمد حسين",
+      "motherPhone": "01189012347",
+      "motherNationalId": "29901181234567",
+      "address": "الإسماعيلية",
+      "phone": "01890123456",
+      "username": "357159",
+      "password": "kL3mN8"
+    },
+    {
+      "id": "s0109",
+      "type": "student",
+      "name": "جنى حسام الدين فتحي",
+      "nationalId": "32301191234567",
+      "birthday": "19-11-2016",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "fatherNationalId": "29801191234567",
+      "fatherPhone": "01090123457",
+      "fatherJob": "طبيب أسنان",
+      "motherName": "نهى كمال الدين عبد الحميد",
+      "motherPhone": "01190123458",
+      "motherNationalId": "30001191234567",
+      "address": "بورسعيد",
+      "phone": "01901234567",
+      "username": "753159",
+      "password": "oP5qR0"
+    },
+    {
+      "id": "s0110",
+      "type": "student",
+      "name": "عمر خالد محمود",
+      "nationalId": "32401201234567",
+      "birthday": "20-12-2016",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "29901201234567",
+      "fatherPhone": "01001234570",
+      "fatherJob": "مدير مبيعات",
+      "motherName": "إيمان عادل محمد",
+      "motherPhone": "01101234571",
+      "motherNationalId": "30101201234567",
+      "address": "المنيا",
+      "phone": "01012345678",
+      "username": "951357",
+      "password": "sT7uV2"
+    },
+    {
+      "id": "s0111",
+      "type": "student",
+      "name": "ليلى عبد الله محمد",
+      "nationalId": "32501211234567",
+      "birthday": "21-1-2017",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "fatherNationalId": "30001211234567",
+      "fatherPhone": "01012345681",
+      "fatherJob": "محامي",
+      "motherName": "شيماء سمير عادل",
+      "motherPhone": "01112345682",
+      "motherNationalId": "30201211234567",
+      "address": "أسيوط",
+      "phone": "01123456789",
+      "username": "159753",
+      "password": "wX9yZ4"
+    },
+    {
+      "id": "s0112",
+      "type": "student",
+      "name": "زياد عمر فاروق",
+      "nationalId": "32601221234567",
+      "birthday": "22-2-2017",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "30101221234567",
+      "fatherPhone": "01023456792",
+      "fatherJob": "مهندس كهرباء",
+      "motherName": "مروة حسن علي",
+      "motherPhone": "01123456793",
+      "motherNationalId": "30301221234567",
+      "address": "سوهاج",
+      "phone": "01234567890",
+      "username": "357951",
+      "password": "aB6cD1"
+    },
+    {
+      "id": "s0113",
+      "type": "student",
+      "name": "رقية محمد سليمان",
+      "nationalId": "32701231234567",
+      "birthday": "23-3-2017",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "fatherNationalId": "30201231234567",
+      "fatherPhone": "01034567903",
+      "fatherJob": "مدرس جامعي",
+      "motherName": "سلمى أحمد محمود",
+      "motherPhone": "01134567904",
+      "motherNationalId": "30401231234567",
+      "address": "الفيوم",
+      "phone": "01345678901",
+      "username": "753951",
+      "password": "eF2gH7"
+    },
+    {
+      "id": "s0114",
+      "type": "student",
+      "name": "مصطفى هاني مصطفى",
+      "nationalId": "32801241234567",
+      "birthday": "24-4-2017",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "30301241234567",
+      "fatherPhone": "01045678914",
+      "fatherJob": "مهندس برمجيات",
+      "motherName": "دينا محمود عبد العزيز",
+      "motherPhone": "01145678915",
+      "motherNationalId": "30501241234567",
+      "address": "بني سويف",
+      "phone": "01456789012",
+      "username": "159357",
+      "password": "iJ4kL9"
+    },
+    {
+      "id": "s0115",
+      "type": "student",
+      "name": "منة الله عمرو السيد",
+      "nationalId": "32901251234567",
+      "birthday": "25-5-2017",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "fatherNationalId": "30401251234567",
+      "fatherPhone": "01056789025",
+      "fatherJob": "صحفي",
+      "motherName": "رانيا طارق فؤاد",
+      "motherPhone": "01156789026",
+      "motherNationalId": "30601251234567",
+      "address": "القاهرة",
+      "phone": "01567890123",
+      "username": "951753",
+      "password": "mN6pL1"
+    },
+    {
+      "id": "s0116",
+      "type": "student",
+      "name": "أحمد حسام الدين فتحي",
+      "nationalId": "33001261234567",
+      "birthday": "26-6-2017",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "30501261234567",
+      "fatherPhone": "01067890136",
+      "fatherJob": "مهندس معماري",
+      "motherName": "نورهان خالد أحمد",
+      "motherPhone": "01167890137",
+      "motherNationalId": "30701261234567",
+      "address": "الإسكندرية",
+      "phone": "01678901234",
+      "username": "753159",
+      "password": "qR8sT3"
+    },
+    {
+      "id": "s0117",
+      "type": "student",
+      "name": "فاطمة وليد سامي",
+      "nationalId": "33101271234567",
+      "birthday": "27-7-2017",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "fatherNationalId": "30601271234567",
+      "fatherPhone": "01078901247",
+      "fatherJob": "طبيب",
+      "motherName": "هدى عماد الدين فؤاد",
+      "motherPhone": "01178901248",
+      "motherNationalId": "30801271234567",
+      "address": "الجيزة",
+      "phone": "01789012345",
+      "username": "357951",
+      "password": "uV0wX5"
+    },
+    {
+      "id": "s0118",
+      "type": "student",
+      "name": "عمر أشرف عبد الفتاح",
+      "nationalId": "33201281234567",
+      "birthday": "28-8-2017",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "30701281234567",
+      "fatherPhone": "01089012358",
+      "fatherJob": "محاسب",
+      "motherName": "ريهام محمد حسين",
+      "motherPhone": "01189012359",
+      "motherNationalId": "30901281234567",
+      "address": "المنصورة",
+      "phone": "01890123456",
+      "username": "159753",
+      "password": "yZ2aB7"
+    },
+    {
+      "id": "s0119",
+      "type": "student",
+      "name": "ملك خالد محمود",
+      "nationalId": "33301291234567",
+      "birthday": "29-9-2017",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "fatherNationalId": "30801291234567",
+      "fatherPhone": "01090123469",
+      "fatherJob": "مدرس",
+      "motherName": "سارة كمال الدين عبد الحميد",
+      "motherPhone": "01190123470",
+      "motherNationalId": "31001291234567",
+      "address": "طنطا",
+      "phone": "01901234567",
+      "username": "951357",
+      "password": "cD4eF9"
+    },
+    {
+      "id": "s0120",
+      "type": "student",
+      "name": "يوسف عبد الله محمد",
+      "nationalId": "33401301234567",
+      "birthday": "30-10-2017",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "30901301234567",
+      "fatherPhone": "01001234580",
+      "fatherJob": "مهندس كهرباء",
+      "motherName": "منى سمير عادل",
+      "motherPhone": "01101234581",
+      "motherNationalId": "31101301234567",
+      "address": "الإسماعيلية",
+      "phone": "01012345678",
+      "username": "753951",
+      "password": "gH3iJ8"
+    },
+    {
+      "id": "s0121",
+      "type": "student",
+      "name": "ليلى أحمد فؤاد",
+      "nationalId": "33501311234567",
+      "birthday": "31-11-2017",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "fatherNationalId": "31001311234567",
+      "fatherPhone": "01012345691",
+      "fatherJob": "محامي",
+      "motherName": "هبة محمود سامي",
+      "motherPhone": "01112345692",
+      "motherNationalId": "31201311234567",
+      "address": "بورسعيد",
+      "phone": "01123456789",
+      "username": "852963",
+      "password": "kL5mN0"
+    },
+    {
+      "id": "s0122",
+      "type": "student",
+      "name": "كريم عمرو السيد",
+      "nationalId": "33601321234567",
+      "birthday": "01-12-2017",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "31101321234567",
+      "fatherPhone": "01023456802",
+      "fatherJob": "مهندس برمجيات",
+      "motherName": "رانيا خالد أحمد",
+      "motherPhone": "01123456803",
+      "motherNationalId": "31301321234567",
+      "address": "المنيا",
+      "phone": "01234567890",
+      "username": "741852",
+      "password": "oP7qR2"
+    },
+    {
+      "id": "s0123",
+      "type": "student",
+      "name": "فريدة هاني مصطفى",
+      "nationalId": "33701331234567",
+      "birthday": "02-01-2018",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "fatherNationalId": "31201331234567",
+      "fatherPhone": "01034567913",
+      "fatherJob": "طبيب",
+      "motherName": "نورا عماد الدين فؤاد",
+      "motherPhone": "01134567914",
+      "motherNationalId": "31401331234567",
+      "address": "أسيوط",
+      "phone": "01345678901",
+      "username": "963852",
+      "password": "sT9uV4"
+    },
+    {
+      "id": "s0124",
+      "type": "student",
+      "name": "آدم وليد سامي",
+      "nationalId": "33801341234567",
+      "birthday": "03-02-2018",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "31301341234567",
+      "fatherPhone": "01045679024",
+      "fatherJob": "مدير مبيعات",
+      "motherName": "شيماء طارق عبد الرحمن",
+      "motherPhone": "01145679025",
+      "motherNationalId": "31501341234567",
+      "address": "سوهاج",
+      "phone": "01456789012",
+      "username": "159753",
+      "password": "wX1yZ6"
+    },
+    {
+      "id": "s0125",
+      "type": "student",
+      "name": "جنى أشرف عبد الفتاح",
+      "nationalId": "33901351234567",
+      "birthday": "04-03-2018",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "fatherNationalId": "31401351234567",
+      "fatherPhone": "01056790135",
+      "fatherJob": "صحفي",
+      "motherName": "دينا محمد حسين",
+      "motherPhone": "01156790136",
+      "motherNationalId": "31601351234567",
+      "address": "الفيوم",
+      "phone": "01567890123",
+      "username": "357159",
+      "password": "aB8cD3"
+    },
+    {
+      "id": "s0126",
+      "type": "student",
+      "name": "يحيى حسام الدين فتحي",
+      "nationalId": "34001361234567",
+      "birthday": "05-04-2018",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "31501361234567",
+      "fatherPhone": "01067901246",
+      "fatherJob": "مهندس معماري",
+      "motherName": "سمر كمال الدين عبد الحميد",
+      "motherPhone": "01167901247",
+      "motherNationalId": "31701361234567",
+      "address": "بني سويف",
+      "phone": "01678901234",
+      "username": "753159",
+      "password": "eF4gH9"
+    },
+    {
+      "id": "s0127",
+      "type": "student",
+      "name": "رقية خالد محمود",
+      "nationalId": "34101371234567",
+      "birthday": "06-05-2018",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "fatherNationalId": "31601371234567",
+      "fatherPhone": "01079012357",
+      "fatherJob": "محاسب",
+      "motherName": "إيمان عادل محمد",
+      "motherPhone": "01179012358",
+      "motherNationalId": "31801371234567",
+      "address": "القاهرة",
+      "phone": "01789012345",
+      "username": "951357",
+      "password": "iJ6kL1"
+    },
+    {
+      "id": "s0128",
+      "type": "student",
+      "name": "مصطفى عبد الله محمد",
+      "nationalId": "34201381234567",
+      "birthday": "07-06-2018",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "31701381234567",
+      "fatherPhone": "01090123468",
+      "fatherJob": "مدرس جامعي",
+      "motherName": "نهى سمير عادل",
+      "motherPhone": "01190123469",
+      "motherNationalId": "31901381234567",
+      "address": "الإسكندرية",
+      "phone": "01890123456",
+      "username": "159753",
+      "password": "mN8pL3"
+    },
+    {
+      "id": "s0129",
+      "type": "student",
+      "name": "منة الله عمر فاروق",
+      "nationalId": "34301391234567",
+      "birthday": "08-07-2018",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "fatherNationalId": "31801391234567",
+      "fatherPhone": "01001234579",
+      "fatherJob": "طبيب أسنان",
+      "motherName": "مروة حسن علي",
+      "motherPhone": "01101234580",
+      "motherNationalId": "32001391234567",
+      "address": "الجيزة",
+      "phone": "01901234567",
+      "username": "357951",
+      "password": "qR0sT5"
+    },
+    {
+      "id": "s0130",
+      "type": "student",
+      "name": "زياد محمد سليمان",
+      "nationalId": "34401401234567",
+      "birthday": "09-08-2018",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "31901401234567",
+      "fatherPhone": "01012345690",
+      "fatherJob": "مهندس كهرباء",
+      "motherName": "سلمى أحمد محمود",
+      "motherPhone": "01112345691",
+      "motherNationalId": "32101401234567",
+      "address": "المنصورة",
+      "phone": "01012345678",
+      "username": "753951",
+      "password": "uV2wX7"
+    },
+    {
+      "id": "s0131",
+      "type": "student",
+      "name": "فاطمة هاني مصطفى",
+      "nationalId": "34501411234567",
+      "birthday": "10-09-2018",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "fatherNationalId": "32001411234567",
+      "fatherPhone": "01023456801",
+      "fatherJob": "محامي",
+      "motherName": "رانيا محمود عبد العزيز",
+      "motherPhone": "01123456802",
+      "motherNationalId": "32201411234567",
+      "address": "طنطا",
+      "phone": "01123456789",
+      "username": "951753",
+      "password": "yZ4aB9"
+    },
+    {
+      "id": "s0132",
+      "type": "student",
+      "name": "عمر أحمد فؤاد",
+      "nationalId": "34601421234567",
+      "birthday": "11-10-2018",
+      "nationality": "مصري",
+      "Gender": "ذكر",
+      "fatherNationalId": "32101421234567",
+      "fatherPhone": "01034567912",
+      "fatherJob": "مهندس برمجيات",
+      "motherName": "هدى طارق فؤاد",
+      "motherPhone": "01134567913",
+      "motherNationalId": "32301421234567",
+      "address": "الإسماعيلية",
+      "phone": "01234567890",
+      "username": "159357",
+      "password": "cD6eF1"
+    },
+    {
+      "id": "s0133",
+      "type": "student",
+      "name": "ملك عمرو السيد",
+      "nationalId": "34701431234567",
+      "birthday": "12-11-2018",
+      "nationality": "مصرية",
+      "Gender": "أنثى",
+      "fatherNationalId": "32201431234567",
+      "fatherPhone": "01045679023",
+      "fatherJob": "طبيب",
+      "motherName": "نورهان خالد أحمد",
+      "motherPhone": "01145679024",
+      "motherNationalId": "32401431234567",
+      "address": "بورسعيد",
+      "phone": "01345678901",
+      "username": "357159",
+      "password": "gH8iJ3"
+    }
+  ],
+  "classList": [
+    {
+      "id": "705c",
+      "student": {
+        "name": "آدم شريف محمد",
+        "id": "s016"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "اول"
+    },
+    {
+      "id": "9193",
+      "student": {
+        "name": "فاطمة أحمد علي",
+        "id": "s0101"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "اول"
+    },
+    {
+      "id": "996d",
+      "student": {
+        "name": "يوسف محمود سعيد",
+        "id": "s0102"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "اول"
+    },
+    {
+      "id": "d2e3",
+      "student": {
+        "name": "مصطفى حسام الدين فتحي",
+        "id": "s010"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "اول"
+    },
+    {
+      "id": "48b1",
+      "student": {
+        "name": "ملك عبد الرحمن محمد",
+        "id": "s0103"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "اول"
+    },
+    {
+      "id": "6fec",
+      "student": {
+        "name": "أحمد خالد محمود",
+        "id": "s0104"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "اول"
+    },
+    {
+      "id": "4563",
+      "student": {
+        "name": "عبد الرحمن هاني مصطفى",
+        "id": "s006"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "اول"
+    },
+    {
+      "id": "5d74",
+      "student": {
+        "name": "جنى محمد سليمان",
+        "id": "s0105"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "اول"
+    },
+    {
+      "id": "1fe3",
+      "student": {
+        "name": "زياد أشرف عبد الفتاح",
+        "id": "s008"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "اول"
+    },
+    {
+      "id": "7642",
+      "student": {
+        "name": "عبد الرحمن هاني مصطفى",
+        "id": "s0106"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "اول"
+    },
+    {
+      "id": "77d7",
+      "student": {
+        "name": "يحيى عمر فاروق",
+        "id": "s012"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "اول"
+    },
+    {
+      "id": "e018",
+      "student": {
+        "name": "لينا عمرو السيد",
+        "id": "s0007"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "اول"
+    },
+    {
+      "id": "bf86",
+      "student": {
+        "name": "زياد أشرف عبد الفتاح",
+        "id": "s0008"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "اول"
+    },
+    {
+      "id": "6420",
+      "student": {
+        "name": "ياسمين وليد سامي",
+        "id": "s0009"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "اول"
+    },
+    {
+      "id": "f534",
+      "student": {
+        "name": "زياد عمر فاروق",
+        "id": "s0112"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "ثاني"
+    },
+    {
+      "id": "f1aa",
+      "student": {
+        "name": "رقية محمد سليمان",
+        "id": "s0113"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "ثاني"
+    },
+    {
+      "id": "ac94",
+      "student": {
+        "name": "عمر أشرف عبد الفتاح",
+        "id": "s0118"
+      },
+      "class": "الصف الرابع الابتدائي",
+      "semester": "ثاني"
+    },
+    {
+      "id": "0373",
+      "student": {
+        "name": "مصطفى هاني مصطفى",
+        "id": "s0114"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "ثاني"
+    },
+    {
+      "id": "58c1",
+      "student": {
+        "name": "منة الله عمرو السيد",
+        "id": "s0115"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "ثاني"
+    },
+    {
+      "id": "b182",
+      "student": {
+        "name": "أحمد حسام الدين فتحي",
+        "id": "s0116"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "ثاني"
+    },
+    {
+      "id": "f806",
+      "student": {
+        "name": "فاطمة وليد سامي",
+        "id": "s0117"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "ثاني"
+    },
+    {
+      "id": "461f",
+      "student": {
+        "name": "ملك خالد محمود",
+        "id": "s0119"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "ثاني"
+    },
+    {
+      "id": "c1c5",
+      "student": {
+        "name": "يوسف عبد الله محمد",
+        "id": "s0120"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "ثاني"
+    },
+    {
+      "id": "c120",
+      "student": {
+        "name": "ليلى أحمد فؤاد",
+        "id": "s0121"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "ثاني"
+    },
+    {
+      "id": "1eca",
+      "student": {
+        "name": "كريم عمرو السيد",
+        "id": "s0122"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "ثاني"
+    },
+    {
+      "id": "b3ab",
+      "student": {
+        "name": "فريدة هاني مصطفى",
+        "id": "s0123"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "ثاني"
+    },
+    {
+      "id": "f978",
+      "student": {
+        "name": "آدم وليد سامي",
+        "id": "s0124"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "ثاني"
+    },
+    {
+      "id": "22f7",
+      "student": {
+        "name": "جنى أشرف عبد الفتاح",
+        "id": "s0125"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "ثاني"
+    },
+    {
+      "id": "9654",
+      "student": {
+        "name": "يحيى حسام الدين فتحي",
+        "id": "s0126"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "ثاني"
+    },
+    {
+      "id": "e69b",
+      "student": {
+        "name": "رقية خالد محمود",
+        "id": "s0127"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "ثاني"
+    },
+    {
+      "id": "0475",
+      "student": {
+        "name": "مصطفى عبد الله محمد",
+        "id": "s0128"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "ثاني"
+    },
+    {
+      "id": "d761",
+      "student": {
+        "name": "منة الله عمر فاروق",
+        "id": "s0129"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "ثاني"
+    },
+    {
+      "id": "b3ae",
+      "student": {
+        "name": "زياد محمد سليمان",
+        "id": "s0130"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "ثاني"
+    },
+    {
+      "id": "a682",
+      "student": {
+        "name": "فاطمة هاني مصطفى",
+        "id": "s0131"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "ثاني"
+    },
+    {
+      "id": "0797",
+      "student": {
+        "name": "عمر أحمد فؤاد",
+        "id": "s0132"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "ثاني"
+    },
+    {
+      "id": "13ef",
+      "student": {
+        "name": "ملك عمرو السيد",
+        "id": "s0133"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "ثاني"
+    },
+    {
+      "id": "579d",
+      "student": {
+        "name": "مصطفى حسام الدين فتحي",
+        "id": "s0010"
+      },
+      "class": "الصف الثاني الابتدائي",
+      "semester": "اول"
+    },
+    {
+      "id": "b596",
+      "student": {
+        "name": "فريدة وليد سامي",
+        "id": "s0107"
+      },
+      "class": "الصف الثاني الابتدائي",
+      "semester": "اول"
+    },
+    {
+      "id": "6858",
+      "student": {
+        "name": "آدم أشرف عبد الفتاح",
+        "id": "s0108"
+      },
+      "class": "الصف الثاني الابتدائي",
+      "semester": "اول"
+    },
+    {
+      "id": "5409",
+      "student": {
+        "name": "جنى حسام الدين فتحي",
+        "id": "s0109"
+      },
+      "class": "الصف الثاني الابتدائي",
+      "semester": "اول"
+    },
+    {
+      "id": "30ea",
+      "student": {
+        "name": "عمر خالد محمود",
+        "id": "s0110"
+      },
+      "class": "الصف الثاني الابتدائي",
+      "semester": "اول"
+    },
+    {
+      "id": "7aec",
+      "student": {
+        "name": "ليلى عبد الله محمد",
+        "id": "s0111"
+      },
+      "class": "الصف الثاني الابتدائي",
+      "semester": "اول"
+    },
+    {
+      "id": "2659",
+      "student": {
+        "name": "عمر محمد خالد",
+        "id": "4ds6"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "اول"
+    },
+    {
+      "id": "d45e",
+      "student": {
+        "name": "علي حسن محمود",
+        "id": "s014"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "اول"
+    },
+    {
+      "id": "43c6",
+      "student": {
+        "name": "منة الله أيمن عبد العزيز",
+        "id": "s015"
+      },
+      "class": "الصف الاول الابتدائي",
+      "semester": "اول"
+    }
+  ],
+  "studentMessagesToAdmin": [
+    {
+      "student": {
+        "name": "عمر محمد خالد",
+        "id": "4ds6"
+      },
+      "massage": "<p>تصرّف كما لو أنّه من المستحيل أن تفشل.</p><p><br></p><p><br></p>",
+      "res": "<p>حاضر ان شاء الله نحاول</p>",
+      "id": "304c"
+    },
+    {
+      "student": {
+        "name": "عمر محمد خالد",
+        "id": "4ds6"
+      },
+      "massage": "<p>اهلا بكم</p>",
+      "res": "<p>اهلا</p>",
+      "id": "8172"
+    }
+  ],
+  "homework": [
+    {
+      "id": "dc6d",
+      "teacher": {
+        "name": "أحمد كمال السيد",
+        "id": "d7e8"
+      },
+      "homework": "<p>الواجب ص 15 في الكتاب</p>",
+      "lesson": "الدرس الاول",
+      "homeworktype": "الكتروني",
+      "created_at": "4-10-2024",
+      "homeworkclass": [
+        {
+          "class": "الصف الثاني الابتدائي",
+          "semester": "ثاني"
+        },
+        {
+          "class": "الصف الاول الابتدائي",
+          "semester": "اول"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "51a1",
+      "teacher": {
+        "name": "محمد عبد الرحمن حسين",
+        "id": "p9q0"
+      },
+      "homework": "<p>الواجب في المذكرة ص 15</p>",
+      "lesson": "الدرس الاول",
+      "homeworktype": "الكتروني",
+      "created_at": "4-10-2024",
+      "homeworkclass": [
+        {
+          "class": "الصف الاول الابتدائي",
+          "semester": "اول"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "fe96",
+      "teacher": {
+        "name": "أحمد كمال السيد",
+        "id": "d7e8"
+      },
+      "homework": "<p>الواجب ص 20</p>",
+      "lesson": "الدرس الاول",
+      "homeworktype": "الكتروني",
+      "created_at": "5-10-2024",
+      "homeworkclass": [
+        {
+          "class": "الصف الاول الابتدائي",
+          "semester": "اول"
+        }
+      ],
+      "studentanswer": [],
+      "answer": ""
+    }
+  ]
+}
